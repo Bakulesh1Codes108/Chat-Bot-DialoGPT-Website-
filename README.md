@@ -1,4 +1,4 @@
-![Binaryhood](Logo/BinaryhoodLogo.png)
+![Binaryhood](Screenshot%202023-12-08%20182740.png)
 
 # ChatBot
 
